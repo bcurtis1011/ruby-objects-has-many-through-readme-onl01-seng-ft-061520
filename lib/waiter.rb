@@ -22,6 +22,6 @@ class Waiter
     meals.map do |meal|
       meal.waiter
     end
-end
+  end
   
 end
